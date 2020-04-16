@@ -1,9 +1,9 @@
 Vanhatalo et al. (2019). Data structure; variable descriptions (in Finnish).
 
 ID       ID code      | [1-147]
-T01k0    ahdistus     | h„mm„stys
-T01k1    h„mm„stys    | v„h„n aikaa sitten tapahtui jotain
-T01k2    h„pe„        |
+T01k0    ahdistus     | hämmästys
+T01k1    hämmästys    | vähän aikaa sitten tapahtui jotain
+T01k2    häpeä        |
 T01k3    ilo          |
 T01k4    inho         |
 T01k5    kateus       |
@@ -12,14 +12,14 @@ T01k7    pelko        |
 T01k8    rakkaus      |
 T01k9    riemu        |
 T01kA    suru         |
-T01kB    tyytyv„isyys |
+T01kB    tyytyväisyys |
 T01kC    viha         |
 T01kD    ylpeys       |
 T01kE    EOS          |
 T01kF    MUU          |
 T02k0    ahdistus     | rakkaus
-T02k1    h„mm„stys    | haluan hyv„„ toiselle ihmiselle
-T02k2    h„pe„        |
+T02k1    hämmästys    | haluan hyvää toiselle ihmiselle
+T02k2    häpeä        |
 T02k3    ilo          |
 T02k4    inho         |
 T02k5    kateus       |
@@ -28,14 +28,14 @@ T02k7    pelko        |
 T02k8    rakkaus      |
 T02k9    riemu        |
 T02kA    suru         |
-T02kB    tyytyv„isyys |
+T02kB    tyytyväisyys |
 T02kC    viha         |
 T02kD    ylpeys       |
 T02kE    EOS          |
 T02kF    MUU          |
 T03k0    ahdistus     | suru
-T03k1    h„mm„stys    | tied„n, ett„ en voi tehd„ mit„„n
-T03k2    h„pe„        |
+T03k1    hämmästys    | tiedän, että en voi tehdä mitään
+T03k2    häpeä        |
 T03k3    ilo          |
 T03k4    inho         |
 T03k5    kateus       |
@@ -44,14 +44,14 @@ T03k7    pelko        |
 T03k8    rakkaus      |
 T03k9    riemu        |
 T03kA    suru         |
-T03kB    tyytyv„isyys |
+T03kB    tyytyväisyys |
 T03kC    viha         |
 T03kD    ylpeys       |
 T03kE    EOS          |
 T03kF    MUU          |
 T04k0    ahdistus     | rakkaus
-T04k1    h„mm„stys    | on olemassa toinen ihminen
-T04k2    h„pe„        |
+T04k1    hämmästys    | on olemassa toinen ihminen
+T04k2    häpeä        |
 T04k3    ilo          |
 T04k4    inho         |
 T04k5    kateus       |
@@ -60,14 +60,14 @@ T04k7    pelko        |
 T04k8    rakkaus      |
 T04k9    riemu        |
 T04kA    suru         |
-T04kB    tyytyv„isyys |
+T04kB    tyytyväisyys |
 T04kC    viha         |
 T04kD    ylpeys       |
 T04kE    EOS          |
 T04kF    MUU          |
 T05k0    ahdistus     | viha
-T05k1    h„mm„stys    | t„„ll„ tapahtuu nyt jotain pahaa
-T05k2    h„pe„        |
+T05k1    hämmästys    | täällä tapahtuu nyt jotain pahaa
+T05k2    häpeä        |
 T05k3    ilo          |
 T05k4    inho         |
 T05k5    kateus       |
@@ -76,14 +76,14 @@ T05k7    pelko        |
 T05k8    rakkaus      |
 T05k9    riemu        |
 T05kA    suru         |
-T05kB    tyytyv„isyys |
+T05kB    tyytyväisyys |
 T05kC    viha         |
 T05kD    ylpeys       |
 T05kE    EOS          |
 T05kF    MUU          |
 T06k0    ahdistus     | pelko
-T06k1    h„mm„stys    | haluan tehd„ jotain
-T06k2    h„pe„        |
+T06k1    hämmästys    | haluan tehdä jotain
+T06k2    häpeä        |
 T06k3    ilo          |
 T06k4    inho         |
 T06k5    kateus       |
@@ -92,14 +92,14 @@ T06k7    pelko        |
 T06k8    rakkaus      |
 T06k9    riemu        |
 T06kA    suru         |
-T06kB    tyytyv„isyys |
+T06kB    tyytyväisyys |
 T06kC    viha         |
 T06kD    ylpeys       |
 T06kE    EOS          |
 T06kF    MUU          |
 T07k0    ahdistus     | ilo
-T07k1    h„mm„stys    | nyt tapahtuu jotain oikein hyv„„
-T07k2    h„pe„        |
+T07k1    hämmästys    | nyt tapahtuu jotain oikein hyvää
+T07k2    häpeä        |
 T07k3    ilo          |
 T07k4    inho         |
 T07k5    kateus       |
@@ -108,30 +108,30 @@ T07k7    pelko        |
 T07k8    rakkaus      |
 T07k9    riemu        |
 T07kA    suru         |
-T07kB    tyytyv„isyys |
+T07kB    tyytyväisyys |
 T07kC    viha         |
 T07kD    ylpeys       |
 T07kE    EOS          |
 T07kF    MUU          |
 T08k0    ahdistus     | pelko
-T08k1    h„mm„stys    | minulle voi tapahtua t„„ll„ nyt jotain pahaa
-T08k2    h„pe„        | en halua t„t„
-T08k3    ilo          | en halua olla t„„ll„
-T08k4    inho         | t„m„n takia haluan tehd„ jotain
-T08k5    kateus       | kun ajattelen t„t„, minusta tuntuu pahalta
+T08k1    hämmästys    | minulle voi tapahtua täällä nyt jotain pahaa
+T08k2    häpeä        | en halua tätä
+T08k3    ilo          | en halua olla täällä
+T08k4    inho         | tämän takia haluan tehdä jotain
+T08k5    kateus       | kun ajattelen tätä, minusta tuntuu pahalta
 T08k6    onnellisuus  |
 T08k7    pelko        |
 T08k8    rakkaus      |
 T08k9    riemu        |
 T08kA    suru         |
-T08kB    tyytyv„isyys |
+T08kB    tyytyväisyys |
 T08kC    viha         |
 T08kD    ylpeys       |
 T08kE    EOS          |
 T08kF    MUU          |
 T09k0    ahdistus     | suru
-T09k1    h„mm„stys    | minusta tuntuu nyt pahalta
-T09k2    h„pe„        |
+T09k1    hämmästys    | minusta tuntuu nyt pahalta
+T09k2    häpeä        |
 T09k3    ilo          |
 T09k4    inho         |
 T09k5    kateus       |
@@ -140,14 +140,14 @@ T09k7    pelko        |
 T09k8    rakkaus      |
 T09k9    riemu        |
 T09kA    suru         |
-T09kB    tyytyv„isyys |
+T09kB    tyytyväisyys |
 T09kC    viha         |
 T09kD    ylpeys       |
 T09kE    EOS          |
 T09kF    MUU          |
 T10k0    ahdistus     | suru
-T10k1    h„mm„stys    | tied„n, ett„ jotain pahaa tapahtui
-T10k2    h„pe„        |
+T10k1    hämmästys    | tiedän, että jotain pahaa tapahtui
+T10k2    häpeä        |
 T10k3    ilo          |
 T10k4    inho         |
 T10k5    kateus       |
@@ -156,14 +156,14 @@ T10k7    pelko        |
 T10k8    rakkaus      |
 T10k9    riemu        |
 T10kA    suru         |
-T10kB    tyytyv„isyys |
+T10kB    tyytyväisyys |
 T10kC    viha         |
 T10kD    ylpeys       |
 T10kE    EOS          |
 T10kF    MUU          |
 T11k0    ahdistus     | inho
-T11k1    h„mm„stys    | minusta tuntuu pahalta
-T11k2    h„pe„        | niin kuin tuntuu silloin kun suussani on jotain pahaa
+T11k1    hämmästys    | minusta tuntuu pahalta
+T11k2    häpeä        | niin kuin tuntuu silloin kun suussani on jotain pahaa
 T11k3    ilo          |
 T11k4    inho         |
 T11k5    kateus       |
@@ -172,14 +172,14 @@ T11k7    pelko        |
 T11k8    rakkaus      |
 T11k9    riemu        |
 T11kA    suru         |
-T11kB    tyytyv„isyys |
+T11kB    tyytyväisyys |
 T11kC    viha         |
 T11kD    ylpeys       |
 T11kE    EOS          |
 T11kF    MUU          |
 T12k0    ahdistus     | ilo
-T12k1    h„mm„stys    | haluan, ett„ t„llaista tapahtuu
-T12k2    h„pe„        |
+T12k1    hämmästys    | haluan, että tällaista tapahtuu
+T12k2    häpeä        |
 T12k3    ilo          |
 T12k4    inho         |
 T12k5    kateus       |
@@ -188,46 +188,46 @@ T12k7    pelko        |
 T12k8    rakkaus      |
 T12k9    riemu        |
 T12kA    suru         |
-T12kB    tyytyv„isyys |
+T12kB    tyytyväisyys |
 T12kC    viha         |
 T12kD    ylpeys       |
 T12kE    EOS          |
 T12kF    MUU          |
 T13k0    ahdistus     | viha
-T13k1    h„mm„stys    | t„„ll„ tapahtuu nyt jotain pahaa
-T13k2    h„pe„        | en halua t„t„
-T13k3    ilo          | haluan tehd„ jotakin (jollekin) t„m„n takia
-T13k4    inho         | minusta tuntuu pahalta t„m„n takia
+T13k1    hämmästys    | täällä tapahtuu nyt jotain pahaa
+T13k2    häpeä        | en halua tätä
+T13k3    ilo          | haluan tehdä jotakin (jollekin) tämän takia
+T13k4    inho         | minusta tuntuu pahalta tämän takia
 T13k5    kateus       |
 T13k6    onnellisuus  |
 T13k7    pelko        |
 T13k8    rakkaus      |
 T13k9    riemu        |
 T13kA    suru         |
-T13kB    tyytyv„isyys |
+T13kB    tyytyväisyys |
 T13kC    viha         |
 T13kD    ylpeys       |
 T13kE    EOS          |
 T13kF    MUU          |
 T14k0    ahdistus     | rakkaus
-T14k1    h„mm„stys    | on olemassa toinen ihminen
-T14k2    h„pe„        | kun ajattelen h„nt„, minusta tuntuu eritt„in hyv„lt„
-T14k3    ilo          | haluan h„nelle hyv„„
-T14k4    inho         | kun ajattelen t„t„, minusta tuntuu hyvin hyv„lt„ kauan aikaa
+T14k1    hämmästys    | on olemassa toinen ihminen
+T14k2    häpeä        | kun ajattelen häntä, minusta tuntuu erittäin hyvältä
+T14k3    ilo          | haluan hänelle hyvää
+T14k4    inho         | kun ajattelen tätä, minusta tuntuu hyvin hyvältä kauan aikaa
 T14k5    kateus       |
 T14k6    onnellisuus  |
 T14k7    pelko        |
 T14k8    rakkaus      |
 T14k9    riemu        |
 T14kA    suru         |
-T14kB    tyytyv„isyys |
+T14kB    tyytyväisyys |
 T14kC    viha         |
 T14kD    ylpeys       |
 T14kE    EOS          |
 T14kF    MUU          |
 T15k0    ahdistus     | viha
-T15k1    h„mm„stys    | haluan tehd„ jotakin (jollekin)
-T15k2    h„pe„        |
+T15k1    hämmästys    | haluan tehdä jotakin (jollekin)
+T15k2    häpeä        |
 T15k3    ilo          |
 T15k4    inho         |
 T15k5    kateus       |
@@ -236,15 +236,15 @@ T15k7    pelko        |
 T15k8    rakkaus      |
 T15k9    riemu        |
 T15kA    suru         |
-T15kB    tyytyv„isyys |
+T15kB    tyytyväisyys |
 T15kC    viha         |
 T15kD    ylpeys       |
 T15kE    EOS          |
 T15kF    MUU          |
 T16k0    ahdistus     | inho
-T16k1    h„mm„stys    | er„s ihminen teki jotain oikein pahaa
-T16k2    h„pe„        | en ollut ennen ajatellut, ett„ t„m„ ihminen voi tehd„ jotain t„llaista
-T16k3    ilo          | t„m„n takia minusta tuntuu pahalta
+T16k1    hämmästys    | eräs ihminen teki jotain oikein pahaa
+T16k2    häpeä        | en ollut ennen ajatellut, että tämä ihminen voi tehdä jotain tällaista
+T16k3    ilo          | tämän takia minusta tuntuu pahalta
 T16k4    inho         | niin kuin minusta tuntuu silloin kun suussani on jotain pahaa
 T16k5    kateus       |
 T16k6    onnellisuus  |
@@ -252,14 +252,14 @@ T16k7    pelko        |
 T16k8    rakkaus      |
 T16k9    riemu        |
 T16kA    suru         |
-T16kB    tyytyv„isyys |
+T16kB    tyytyväisyys |
 T16kC    viha         |
 T16kD    ylpeys       |
 T16kE    EOS          |
 T16kF    MUU          |
 T17k0    ahdistus     | pelko
-T17k1    h„mm„stys    | minulle voi tapahtua t„„ll„ nyt jotain pahaa
-T17k2    h„pe„        |
+T17k1    hämmästys    | minulle voi tapahtua täällä nyt jotain pahaa
+T17k2    häpeä        |
 T17k3    ilo          |
 T17k4    inho         |
 T17k5    kateus       |
@@ -268,14 +268,14 @@ T17k7    pelko        |
 T17k8    rakkaus      |
 T17k9    riemu        |
 T17kA    suru         |
-T17kB    tyytyv„isyys |
+T17kB    tyytyväisyys |
 T17kC    viha         |
 T17kD    ylpeys       |
 T17kE    EOS          |
 T17kF    MUU          |
-T18k0    ahdistus     | h„mm„stys
-T18k1    h„mm„stys    | minusta tuntuu joltakin
-T18k2    h„pe„        |
+T18k0    ahdistus     | hämmästys
+T18k1    hämmästys    | minusta tuntuu joltakin
+T18k2    häpeä        |
 T18k3    ilo          |
 T18k4    inho         |
 T18k5    kateus       |
@@ -284,14 +284,14 @@ T18k7    pelko        |
 T18k8    rakkaus      |
 T18k9    riemu        |
 T18kA    suru         |
-T18kB    tyytyv„isyys |
+T18kB    tyytyväisyys |
 T18kC    viha         |
 T18kD    ylpeys       |
 T18kE    EOS          |
 T18kF    MUU          |
 T19k0    ahdistus     | pelko & viha
-T19k1    h„mm„stys    | minusta tuntuu pahalta
-T19k2    h„pe„        |
+T19k1    hämmästys    | minusta tuntuu pahalta
+T19k2    häpeä        |
 T19k3    ilo          |
 T19k4    inho         |
 T19k5    kateus       |
@@ -300,14 +300,14 @@ T19k7    pelko        |
 T19k8    rakkaus      |
 T19k9    riemu        |
 T19kA    suru         |
-T19kB    tyytyv„isyys |
+T19kB    tyytyväisyys |
 T19kC    viha         |
 T19kD    ylpeys       |
 T19kE    EOS          |
 T19kF    MUU          |
 T20k0    ahdistus     | suru
-T20k1    h„mm„stys    | en voi ajatella n„in: t„lle asialle voin tehd„ jotain
-T20k2    h„pe„        |
+T20k1    hämmästys    | en voi ajatella näin: tälle asialle voin tehdä jotain
+T20k2    häpeä        |
 T20k3    ilo          |
 T20k4    inho         |
 T20k5    kateus       |
@@ -316,14 +316,14 @@ T20k7    pelko        |
 T20k8    rakkaus      |
 T20k9    riemu        |
 T20kA    suru         |
-T20kB    tyytyv„isyys |
+T20kB    tyytyväisyys |
 T20kC    viha         |
 T20kD    ylpeys       |
 T20kE    EOS          |
 T20kF    MUU          |
 T21k0    ahdistus     | pelko
-T21k1    h„mm„stys    | en halua olla t„„ll„
-T21k2    h„pe„        |
+T21k1    hämmästys    | en halua olla täällä
+T21k2    häpeä        |
 T21k3    ilo          |
 T21k4    inho         |
 T21k5    kateus       |
@@ -332,14 +332,14 @@ T21k7    pelko        |
 T21k8    rakkaus      |
 T21k9    riemu        |
 T21kA    suru         |
-T21kB    tyytyv„isyys |
+T21kB    tyytyväisyys |
 T21kC    viha         |
 T21kD    ylpeys       |
 T21kE    EOS          |
 T21kF    MUU          |
-T22k0    ahdistus     | h„mm„stys
-T22k1    h„mm„stys    | tied„n nyt nyt jotain, jota en ennen tiennyt
-T22k2    h„pe„        |
+T22k0    ahdistus     | hämmästys
+T22k1    hämmästys    | tiedän nyt nyt jotain, jota en ennen tiennyt
+T22k2    häpeä        |
 T22k3    ilo          |
 T22k4    inho         |
 T22k5    kateus       |
@@ -348,14 +348,14 @@ T22k7    pelko        |
 T22k8    rakkaus      |
 T22k9    riemu        |
 T22kA    suru         |
-T22kB    tyytyv„isyys |
+T22kB    tyytyväisyys |
 T22kC    viha         |
 T22kD    ylpeys       |
 T22kE    EOS          |
 T22kF    MUU          |
 T23k0    ahdistus     | suru
-T23k1    h„mm„stys    | en halua, ett„ t„llaisia asioita tapahtuu
-T23k2    h„pe„        |
+T23k1    hämmästys    | en halua, että tällaisia asioita tapahtuu
+T23k2    häpeä        |
 T23k3    ilo          |
 T23k4    inho         |
 T23k5    kateus       |
@@ -364,30 +364,30 @@ T23k7    pelko        |
 T23k8    rakkaus      |
 T23k9    riemu        |
 T23kA    suru         |
-T23kB    tyytyv„isyys |
+T23kB    tyytyväisyys |
 T23kC    viha         |
 T23kD    ylpeys       |
 T23kE    EOS          |
 T23kF    MUU          |
-T24k0    ahdistus     | h„mm„stys
-T24k1    h„mm„stys    | v„h„n aikaa sitten tapahtui jotain
-T24k2    h„pe„        | t„m„n takia tied„n nyt jotain
-T24k3    ilo          | t„t„ en ennen tiennyt
-T24k4    inho         | kun ajattelen t„t„ minusta tuntuu joltakin
+T24k0    ahdistus     | hämmästys
+T24k1    hämmästys    | vähän aikaa sitten tapahtui jotain
+T24k2    häpeä        | tämän takia tiedän nyt jotain
+T24k3    ilo          | tätä en ennen tiennyt
+T24k4    inho         | kun ajattelen tätä minusta tuntuu joltakin
 T24k5    kateus       |
 T24k6    onnellisuus  |
 T24k7    pelko        |
 T24k8    rakkaus      |
 T24k9    riemu        |
 T24kA    suru         |
-T24kB    tyytyv„isyys |
+T24kB    tyytyväisyys |
 T24kC    viha         |
 T24kD    ylpeys       |
 T24kE    EOS          |
 T24kF    MUU          |
 T25k0    ahdistus     | ilo
-T25k1    h„mm„stys    | minusta tuntuu oikein hyv„lt„
-T25k2    h„pe„        |
+T25k1    hämmästys    | minusta tuntuu oikein hyvältä
+T25k2    häpeä        |
 T25k3    ilo          |
 T25k4    inho         |
 T25k5    kateus       |
@@ -396,30 +396,30 @@ T25k7    pelko        |
 T25k8    rakkaus      |
 T25k9    riemu        |
 T25kA    suru         |
-T25kB    tyytyv„isyys |
+T25kB    tyytyväisyys |
 T25kC    viha         |
 T25kD    ylpeys       |
 T25kE    EOS          |
 T25kF    MUU          |
 T26k0    ahdistus     | suru
-T26k1    h„mm„stys    | tied„n, ett„ jotain pahaa tapahtui
-T26k2    h„pe„        | en halua, ett„ t„llaisia asioita tapahtuu
-T26k3    ilo          | en voi ajatella n„in: t„lle asialle voin tehd„ jotain
-T26k4    inho         | tied„n, ett„ en voi tehd„ mit„„n
-T26k5    kateus       | t„m„n takia minusta tuntuu nyt pahalta
+T26k1    hämmästys    | tiedän, että jotain pahaa tapahtui
+T26k2    häpeä        | en halua, että tällaisia asioita tapahtuu
+T26k3    ilo          | en voi ajatella näin: tälle asialle voin tehdä jotain
+T26k4    inho         | tiedän, että en voi tehdä mitään
+T26k5    kateus       | tämän takia minusta tuntuu nyt pahalta
 T26k6    onnellisuus  |
 T26k7    pelko        |
 T26k8    rakkaus      |
 T26k9    riemu        |
 T26kA    suru         |
-T26kB    tyytyv„isyys |
+T26kB    tyytyväisyys |
 T26kC    viha         |
 T26kD    ylpeys       |
 T26kE    EOS          |
 T26kF    MUU          |
 T27k0    ahdistus     | viha & pelko
-T27k1    h„mm„stys    | en halua t„t„
-T27k2    h„pe„        |
+T27k1    hämmästys    | en halua tätä
+T27k2    häpeä        |
 T27k3    ilo          |
 T27k4    inho         |
 T27k5    kateus       |
@@ -428,14 +428,14 @@ T27k7    pelko        |
 T27k8    rakkaus      |
 T27k9    riemu        |
 T27kA    suru         |
-T27kB    tyytyv„isyys |
+T27kB    tyytyväisyys |
 T27kC    viha         |
 T27kD    ylpeys       |
 T27kE    EOS          |
 T27kF    MUU          |
 T28k0    ahdistus     | inho
-T28k1    h„mm„stys    | en ollut ennen ajatellut, ett„ t„m„ ihminen voi tehd„ jotain t„llaista
-T28k2    h„pe„        |
+T28k1    hämmästys    | en ollut ennen ajatellut, että tämä ihminen voi tehdä jotain tällaista
+T28k2    häpeä        |
 T28k3    ilo          |
 T28k4    inho         |
 T28k5    kateus       |
@@ -444,14 +444,14 @@ T28k7    pelko        |
 T28k8    rakkaus      |
 T28k9    riemu        |
 T28kA    suru         |
-T28kB    tyytyv„isyys |
+T28kB    tyytyväisyys |
 T28kC    viha         |
 T28kD    ylpeys       |
 T28kE    EOS          |
 T28kF    MUU          |
-T29k0    ahdistus     | h„mm„stys
-T29k1    h„mm„stys    | v„h„n aikaa sitten tapahtui jotain
-T29k2    h„pe„        |
+T29k0    ahdistus     | hämmästys
+T29k1    hämmästys    | vähän aikaa sitten tapahtui jotain
+T29k2    häpeä        |
 T29k3    ilo          |
 T29k4    inho         |
 T29k5    kateus       |
@@ -460,14 +460,14 @@ T29k7    pelko        |
 T29k8    rakkaus      |
 T29k9    riemu        |
 T29kA    suru         |
-T29kB    tyytyv„isyys |
+T29kB    tyytyväisyys |
 T29kC    viha         |
 T29kD    ylpeys       |
 T29kE    EOS          |
 T29kF    MUU          |
 T30k0    ahdistus     | rakkaus
-T30k1    h„mm„stys    | haluan toiselle ihmiselle hyv„„
-T30k2    h„pe„        |
+T30k1    hämmästys    | haluan toiselle ihmiselle hyvää
+T30k2    häpeä        |
 T30k3    ilo          |
 T30k4    inho         |
 T30k5    kateus       |
@@ -476,14 +476,14 @@ T30k7    pelko        |
 T30k8    rakkaus      |
 T30k9    riemu        |
 T30kA    suru         |
-T30kB    tyytyv„isyys |
+T30kB    tyytyväisyys |
 T30kC    viha         |
 T30kD    ylpeys       |
 T30kE    EOS          |
 T30kF    MUU          |
 T31k0    ahdistus     | rakkaus
-T31k1    h„mm„stys    | kun ajattelen toista ihmist„, minusta tuntuu eritt„in hyv„lt„ kauan aikaa
-T31k2    h„pe„        |
+T31k1    hämmästys    | kun ajattelen toista ihmistä, minusta tuntuu erittäin hyvältä kauan aikaa
+T31k2    häpeä        |
 T31k3    ilo          |
 T31k4    inho         |
 T31k5    kateus       |
@@ -492,14 +492,14 @@ T31k7    pelko        |
 T31k8    rakkaus      |
 T31k9    riemu        |
 T31kA    suru         |
-T31kB    tyytyv„isyys |
+T31kB    tyytyväisyys |
 T31kC    viha         |
 T31kD    ylpeys       |
 T31kE    EOS          |
 T31kF    MUU          |
 T32k0    ahdistus     | inho
-T32k1    h„mm„stys    | er„s ihminen teki jotain oikein pahaa
-T32k2    h„pe„        |
+T32k1    hämmästys    | eräs ihminen teki jotain oikein pahaa
+T32k2    häpeä        |
 T32k3    ilo          |
 T32k4    inho         |
 T32k5    kateus       |
@@ -508,15 +508,15 @@ T32k7    pelko        |
 T32k8    rakkaus      |
 T32k9    riemu        |
 T32kA    suru         |
-T32kB    tyytyv„isyys |
+T32kB    tyytyväisyys |
 T32kC    viha         |
 T32kD    ylpeys       |
 T32kE    EOS          |
 T32kF    MUU          |
 T33k0    ahdistus     | ilo
-T33k1    h„mm„stys    | nyt tapahtuu jotain oikein hyv„„
-T33k2    h„pe„        | haluan, ett„ t„llaista tapahtuu
-T33k3    ilo          | minusta tuntuu oikein hyv„lt„, kun ajattelen t„t„
+T33k1    hämmästys    | nyt tapahtuu jotain oikein hyvää
+T33k2    häpeä        | haluan, että tällaista tapahtuu
+T33k3    ilo          | minusta tuntuu oikein hyvältä, kun ajattelen tätä
 T33k4    inho         |
 T33k5    kateus       |
 T33k6    onnellisuus  |
@@ -524,10 +524,10 @@ T33k7    pelko        |
 T33k8    rakkaus      |
 T33k9    riemu        |
 T33kA    suru         |
-T33kB    tyytyv„isyys |
+T33kB    tyytyväisyys |
 T33kC    viha         |
 T33kD    ylpeys       |
 T33kE    EOS          |
 T33kF    MUU          |
 gender   Sukupuoli    | 1 = female (97), 2 = male (30), 3 = other (3)
-age      Ik„ vuosina  | in years [18-54]
+age      Ikä vuosina  | in years [18-54]
